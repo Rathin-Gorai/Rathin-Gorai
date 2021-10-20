@@ -25,7 +25,7 @@ C, C++, Python, Java, Angular, Bash, C#, Javascript, HTML, CSS...
 
 
 
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/MYCKVI9GYmwwm65EWPT8KXlr3fqYg4NnZ-1Y2wnym8spFWR8H8dId65Jj0WsuS88e_M6HEtAOPvxwoPUJz6DJ2JqSpTCzE6D" alt="Bt">
+<p align="center"><img src="https://c.tenor.com/Ky2WUSnlmMYAAAAC/anonymous-anonymity.gif" alt="Bt">
  <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
    
   
