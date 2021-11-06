@@ -45,6 +45,9 @@ For support, email rthnkg@gmail.com or join our Slack channel.
 
 When to use iterative development? You should use iterative development only on projects that you want to succeed
 ## 🚀 About Me
+   
+ [![Greg's github stats](https://github-readme-stats.vercel.app/api?username=rathin-gorai&hide=commits,prs,issues,contribs)](https://rathin-gorai.github.io)]
+</center>
 I'm a full stack developer...
 
   
