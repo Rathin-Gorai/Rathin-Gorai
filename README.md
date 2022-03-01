@@ -65,6 +65,8 @@ Here are some related projects
 
 [Awesome README](https://github.com/matiassingers/awesome-readme)
 
+![](https://komarev.com/ghpvc/?username=your-github-rathin-gorai)
+
   
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathin-gorai-6a9550198/)
