@@ -47,8 +47,8 @@ When to use iterative development? You should use iterative development only on 
 ## 🚀 About Me
    
 <center>
-[![Rathin's github stats](https://github-readme-stats.vercel.app/api?username=rathin-gorai)](https://github.com/rathin-gorai/)
-</center>
+[![Rathin' github stats](https://github-readme-stats.vercel.app/api?username=rathin-gorai)](https://github.com/laisbsc/github-readme-stats)
+
 I'm a full stack developer...
 
 
